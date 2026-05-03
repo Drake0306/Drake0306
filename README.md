@@ -1,103 +1,88 @@
-<h1 align="center">Hey 👋, I'm Abhinav</h1>
+<div align="center">
 
-<p align="center">
-  Building things that actually work ⚡ <br/>
-  Full-stack dev focused on real-world systems & clean UI
-</p>
+# Abhinav Roy
 
----
+**Full-stack developer building production systems, not demos.**
 
-### 🧠 About Me
+I architect and ship end-to-end applications — from database design to deployment pipelines.  
+I use AI coding agents as power tools in my workflow: I direct them, steer them, and ship faster because of it.
 
-- 💻 I build full-stack applications from start to finish — architecture, backend, frontend, deployment
-- ⚙️ I care about **performance, clean architecture, and real usability**
-- 🚀 Currently working on: scalable apps + automation tools
-- 🧩 I like solving real problems, not just making UI clones
-- 🤖 I leverage AI coding agents as power tools — I architect, direct, and guide them to ship production-quality systems end-to-end
+[![GitHub](https://img.shields.io/badge/GitHub-Drake0306-181717?style=flat&logo=github)](https://github.com/Drake0306)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### Frontend
+**Frontend**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,svelte" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,ts,js" />
 </p>
 
-#### Backend
+**Backend**
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,dotnet,python,django,fastapi,php,laravel" />
 </p>
 
-#### Databases & ORMs
+**Databases & ORMs**
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,prisma" />
 </p>
 
-- Drizzle ORM
+Drizzle ORM
 
-#### DevOps & Infrastructure
+**DevOps & Infrastructure**
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,githubactions" />
 </p>
 
-- AWS (S3, EC2)
-- CI/CD pipelines & automated deployments
-- Docker containerization
+AWS (S3, EC2) | CI/CD Pipelines | Automated Deployments | Docker
 
-#### Auth & Security
-- JWT / Token-based authentication
-- OAuth
+**Auth:** JWT, OAuth, Token-based authentication
 
 ---
 
-### 🚀 Projects
+### How I Work
 
-#### 🔹 WhatsApp Automation Platform
-- Built automation workflows for messaging
-- Backend + API + UI system
-- Focused on real-world usage, not demos
+I don't just write code — I design full systems and know how to decompose complex projects into executable steps. I leverage AI coding agents as tools in my development workflow. I guide them with clear architectural intent, review and refine their output, and use them to move at a pace that would be impossible solo. The result: production-grade systems, shipped faster.
 
-👉 https://whatsappautomation-production-1928.up.railway.app/
+I can take a project from zero to deployed — planning, building, testing, and automating — without getting stuck.
 
 ---
 
-#### 🔹 Real-time Chat App
-- Socket.io + MySQL based system
-- Notifications + message preview
-- Multi-user architecture
+### Featured Projects
+
+**WhatsApp Automation Platform**  
+Full automation workflow system — backend, API, and UI. Built for real-world usage.  
+[Live](https://whatsappautomation-production-1928.up.railway.app/)
+
+**Real-time Chat App**  
+Socket.io + MySQL. Notifications, message preview, multi-user architecture.
+
+**Multi-role Platform (Student / Coach / Parent)**  
+Event system, messaging, calendar, OAuth. Syncs across roles and devices.
 
 ---
 
-#### 🔹 Multi-role App (Student / Coach / Parent)
-- Event system + messaging + calendar
-- OAuth authentication
-- Sync across roles and devices
-
----
-
-### 💡 How I Work
-
-I don't just write code — I architect full systems and know how to break complex projects into executable pieces. I use AI coding agents (like Claude Code) as tools in my workflow: I direct them, guide them, and steer them to produce exactly what I envision. I can take a project from zero to production — planning, building, deploying, and automating — without getting stuck.
-
----
-
-### 📊 GitHub Stats
-
+<details>
+<summary><strong>GitHub Stats</strong></summary>
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drake0306&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drake0306&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Drake0306&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drake0306&theme=tokyonight&hide_border=true" />
 </p>
+</details>
 
 ---
 
-### 📫 Connect
-
-- GitHub: https://github.com/Drake0306
-- Portfolio: https://whatsappautomation-production-1928.up.railway.app/
-
----
-
-### ⚡ Fun fact
+<div align="center">
 
 I don't build projects for tutorials — I build things people can actually use.
+
+</div>
