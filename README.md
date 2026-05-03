@@ -9,10 +9,11 @@
 
 ### 🧠 About Me
 
-- 💻 I build full-stack applications (React, Next.js, Node, Go, .NET)
+- 💻 I build full-stack applications from start to finish — architecture, backend, frontend, deployment
 - ⚙️ I care about **performance, clean architecture, and real usability**
 - 🚀 Currently working on: scalable apps + automation tools
 - 🧩 I like solving real problems, not just making UI clones
+- 🤖 I leverage AI coding agents as power tools — I architect, direct, and guide them to ship production-quality systems end-to-end
 
 ---
 
@@ -20,18 +21,33 @@
 
 #### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,svelte" />
 </p>
 
 #### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,go,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,dotnet,python,django,fastapi,php,laravel" />
 </p>
 
-#### Database & Tools
+#### Databases & ORMs
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,prisma" />
 </p>
+
+- Drizzle ORM
+
+#### DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,githubactions" />
+</p>
+
+- AWS (S3, EC2)
+- CI/CD pipelines & automated deployments
+- Docker containerization
+
+#### Auth & Security
+- JWT / Token-based authentication
+- OAuth
 
 ---
 
@@ -60,6 +76,12 @@
 
 ---
 
+### 💡 How I Work
+
+I don't just write code — I architect full systems and know how to break complex projects into executable pieces. I use AI coding agents (like Claude Code) as tools in my workflow: I direct them, guide them, and steer them to produce exactly what I envision. I can take a project from zero to production — planning, building, deploying, and automating — without getting stuck.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -78,4 +100,4 @@
 
 ### ⚡ Fun fact
 
-I don’t build projects for tutorials — I build things people can actually use.
+I don't build projects for tutorials — I build things people can actually use.
