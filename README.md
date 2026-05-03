@@ -1,19 +1,8 @@
-<div align="center">
+**Abhinav Roy** — Full-stack developer building production systems, not demos.
 
-# Abhinav Roy
+I architect and ship end-to-end applications. I use AI coding agents as power tools — I direct them, steer them, and ship faster because of it. I can take a project from zero to deployed without getting stuck.
 
-**Full-stack developer building production systems, not demos.**
-
-I architect and ship end-to-end applications — from database design to deployment pipelines.  
-I use AI coding agents as power tools in my workflow: I direct them, steer them, and ship faster because of it.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Drake0306-181717?style=flat&logo=github)](https://github.com/Drake0306)
-
-</div>
-
----
-
-### Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -45,44 +34,22 @@ AWS (S3, EC2) | CI/CD Pipelines | Automated Deployments | Docker
 
 **Auth:** JWT, OAuth, Token-based authentication
 
----
+## Projects
 
-### How I Work
+### Products
 
-I don't just write code — I design full systems and know how to decompose complex projects into executable steps. I leverage AI coding agents as tools in my development workflow. I guide them with clear architectural intent, review and refine their output, and use them to move at a pace that would be impossible solo. The result: production-grade systems, shipped faster.
+- **[WhatsApp Automation Platform](https://whatsappautomation-production-1928.up.railway.app/)** — Full automation workflow system for messaging. Backend, API, and UI built for real-world usage.
+- **[Real-time Chat App](https://github.com/Drake0306)** — Socket.io + MySQL. Notifications, message preview, multi-user architecture.
+- **[Multi-role Platform](https://github.com/Drake0306)** — Student / Coach / Parent system with events, messaging, calendar, and OAuth. Syncs across roles and devices.
 
-I can take a project from zero to deployed — planning, building, testing, and automating — without getting stuck.
+### Tools & Automation
 
----
+- **[Zero](https://github.com/Drake0306/zero)** — Cross-platform LLM interaction tool built on Ollama
+- **[FaceScan Access](https://github.com/Drake0306/facescan-Access)** — Biometric access control system (Django + React)
+- **[Inventory Manager](https://github.com/Drake0306)** — Desktop application built in C#
 
-### Featured Projects
+## How I Work
 
-**WhatsApp Automation Platform**  
-Full automation workflow system — backend, API, and UI. Built for real-world usage.  
-[Live](https://whatsappautomation-production-1928.up.railway.app/)
+I don't just write code — I design full systems and break complex projects into executable steps. I leverage AI coding agents as tools in my workflow, guiding them with clear architectural intent. The result: production-grade systems, shipped faster than working solo.
 
-**Real-time Chat App**  
-Socket.io + MySQL. Notifications, message preview, multi-user architecture.
-
-**Multi-role Platform (Student / Coach / Parent)**  
-Event system, messaging, calendar, OAuth. Syncs across roles and devices.
-
----
-
-<details>
-<summary><strong>GitHub Stats</strong></summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drake0306&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drake0306&theme=tokyonight&hide_border=true" />
-</p>
-</details>
-
----
-
-<div align="center">
-
-I don't build projects for tutorials — I build things people can actually use.
-
-</div>
+Checkout my [GitHub](https://github.com/Drake0306)
