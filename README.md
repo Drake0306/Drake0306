@@ -36,14 +36,14 @@ AWS (S3, EC2) | CI/CD Pipelines | Automated Deployments | Docker
 
 ## Projects
 
-### Products
+### Shipped & Live
 
-- **[WhatsApp Automation Platform](https://whatsappautomation-production-1928.up.railway.app/)** — Full automation workflow system for messaging. Backend, API, and UI built for real-world usage.
-- **[Real-time Chat App](https://github.com/Drake0306)** — Socket.io + MySQL. Notifications, message preview, multi-user architecture.
+- **[UniChat](https://uni-chat-sigma.vercel.app/)** — Real-time chat application built with Svelte + Supabase. Live on Vercel.
+- **[WhatsApp Automation Platform](https://whatsappautomation-production-1928.up.railway.app/)** — Full automation workflow system for messaging. Backend, API, and UI. Live on Railway.
+
+### More Projects
+
 - **[Multi-role Platform](https://github.com/Drake0306)** — Student / Coach / Parent system with events, messaging, calendar, and OAuth. Syncs across roles and devices.
-
-### Tools & Automation
-
 - **[Zero](https://github.com/Drake0306/zero)** — Cross-platform LLM interaction tool built on Ollama
 - **[FaceScan Access](https://github.com/Drake0306/facescan-Access)** — Biometric access control system (Django + React)
 - **[Inventory Manager](https://github.com/Drake0306)** — Desktop application built in C#
