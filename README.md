@@ -23,7 +23,6 @@ I don’t just focus on writing code I try to understand the bigger picture and 
 I also use AI tools as part of my workflow, treating them as assistants rather than shortcuts guiding them with clear intent to move faster without losing quality.
 The goal is simple: build reliable, production-ready systems efficiently, while keeping things thoughtful and maintainable.
 
-Checkout my [GitHub](https://github.com/Drake0306)
 
 ## Tech Stack
 
