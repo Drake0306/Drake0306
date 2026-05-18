@@ -38,8 +38,8 @@ AWS (S3, EC2) | CI/CD Pipelines | Automated Deployments | Docker
 
 ### Shipped & Live
 
-- **[UniChat](https://uni-chat-sigma.vercel.app/)** — Real-time chat application built with Svelte + Supabase. Live on Vercel.
-- **[WhatsApp Automation Platform](https://whatsappautomation-production-1928.up.railway.app/)** — Full automation workflow system for messaging. Backend, API, and UI. Live on Railway.
+- **[UniChat](https://uni-chat-sigma.vercel.app/)** ([repo](https://github.com/Drake0306/uni-chat)) — Real-time chat application built with Svelte + Supabase. Live on Vercel.
+- **[WhatsApp Automation Platform](https://whatsappautomation-production-1928.up.railway.app/)** ([repo](https://github.com/Drake0306/whatsapp_automation)) — Full automation workflow system for messaging. Backend, API, and UI. Live on Railway.
 - **[LLM-Chain](https://github.com/Drake0306/LLM-Chain)** — Open-source desktop app to train your own LLM locally on your own hardware. Hardware-aware UI that gates model + dataset choices to what your machine can run. LoRA / QLoRA / DPO / distillation, dataset workshop, synthetic data, GGUF + Ollama + HF Hub export. Ships as a native installer for macOS, Windows, and Linux.
 - **[FreshWall](https://github.com/Drake0306/fresh-wall)** — Modern Android wallpaper app built with Jetpack Compose + Material 3. Browse a hand-curated Featured collection, or search Pexels and Unsplash from inside the app. Pinterest-style staggered grid, system wallpaper cropper, favorites that persist, and WorkManager-driven auto-rotation on a schedule. Light / dark / pitch-black theming.
 
