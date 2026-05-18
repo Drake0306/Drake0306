@@ -1,5 +1,7 @@
 **Abhinav Roy** — Full-stack developer building production systems, not demos.
 
+**Portfolio →** [drake0306.github.io/my_bio](https://drake0306.github.io/my_bio/)
+
 I architect and ship end-to-end applications. I use AI coding agents as power tools — I direct them, steer them, and ship faster because of it. I can take a project from zero to deployed without getting stuck.
 
 ## Tech Stack
@@ -38,6 +40,7 @@ AWS (S3, EC2) | CI/CD Pipelines | Automated Deployments | Docker
 
 ### Shipped & Live
 
+- **[Portfolio](https://drake0306.github.io/my_bio/)** ([repo](https://github.com/Drake0306/my_bio)) — This very portfolio. Framed-panel document design built with Next.js 16, Tailwind v4, IBM Plex Sans + Geist Mono. Auto-deploys to GitHub Pages via GitHub Actions.
 - **[UniChat](https://uni-chat-sigma.vercel.app/)** ([repo](https://github.com/Drake0306/uni-chat)) — Real-time chat application built with Svelte + Supabase. Live on Vercel.
 - **[WhatsApp Automation Platform](https://whatsappautomation-production-1928.up.railway.app/)** ([repo](https://github.com/Drake0306/whatsapp_automation)) — Full automation workflow system for messaging. Backend, API, and UI. Live on Railway.
 - **[LLM-Chain](https://github.com/Drake0306/LLM-Chain)** — Open-source desktop app to train your own LLM locally on your own hardware. Hardware-aware UI that gates model + dataset choices to what your machine can run. LoRA / QLoRA / DPO / distillation, dataset workshop, synthetic data, GGUF + Ollama + HF Hub export. Ships as a native installer for macOS, Windows, and Linux.
